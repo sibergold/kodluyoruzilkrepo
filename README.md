@@ -23,4 +23,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Licence 
 [MIT](https://github.com/sibergold/kodluyoruzilkrepo/blob/main/LICENSE)
 
+## Patika.dev User
 
+[User](https://app.patika.dev/sibergold)
